@@ -1,4 +1,4 @@
-module github.com/moran666666/sector-counter
+module github.com/he426100/sector-counter
 
 go 1.14
 
